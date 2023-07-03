@@ -1,6 +1,5 @@
 # Fed Data Science Gigs
 
-- Dep. of Transportation Office Of Inspector General Data scientist: https://www.usajobs.gov/GetJob/ViewDetails/734043800
 - https://www.usajobs.gov/job/734695900
 - General USAJOBS Data Science Page: https://data-science.usajobs.gov/
 - DOE Gigs: https://www.usajobs.gov/Search/Results?j=1515&j=1529&j=1530&j=1560&j=1501&j=1520&d=DN&show=ser&p=1
