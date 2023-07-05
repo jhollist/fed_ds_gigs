@@ -4,6 +4,7 @@ I will do my best to keep this list of data science positions with the federal g
 
 Also, if anyone who stumbled across this is considering applying and has questions about the process, wants feedback on resumes, etc. just open an issue.  No promises that we can find someone to take a look, but I have a few folks who might be able to carve out some time.  In other words, no harm in asking for a hand with the federal hiring process and I will see if we can find someone to take a look!
 
+- DOT Data scientist in data analytics and computer crimes unit: https://www.usajobs.gov/GetJob/ViewDetails/734043800
 - https://www.usajobs.gov/job/734695900
 - General USAJOBS Data Science Page: https://data-science.usajobs.gov/
 - DOE Gigs: https://www.usajobs.gov/Search/Results?j=1515&j=1529&j=1530&j=1560&j=1501&j=1520&d=DN&show=ser&p=1
