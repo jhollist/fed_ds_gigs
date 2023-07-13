@@ -12,7 +12,9 @@ Also, if anyone who stumbled across this is considering applying and has questio
 
 Note: The official Data Science classification is fairly new and not all agencies have been quick to use it, so data science jobs may be hidden behind another series. 
 
-# Related Positions
+# Related/Fed Adjacent Positions
+
+- Environmental Data Scientist with CUAHSI (REMOTE!!!): https://www.cuahsi.org/job-board/environmental-data-scientist
 
 - Contract Position with Census via Reveal Global Consulting (Ping @jhollist if interested, he'll provide contact.)
 
